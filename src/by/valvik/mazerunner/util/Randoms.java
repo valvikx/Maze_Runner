@@ -2,7 +2,7 @@ package by.valvik.mazerunner.util;
 
 import java.util.Random;
 
-public class Randoms {
+public final class Randoms {
 
     private static final Random RANDOM = new Random();
 

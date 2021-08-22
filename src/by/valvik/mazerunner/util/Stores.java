@@ -5,7 +5,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.List;
 
-public class Stores {
+public final class Stores {
 
     private static final String REGEX = "\\.";
 

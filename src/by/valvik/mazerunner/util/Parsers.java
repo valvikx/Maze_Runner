@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 import static java.lang.Integer.parseInt;
 
-public class Parsers {
+public final class Parsers {
 
     private static final String REGEX = "\\s+";
 
